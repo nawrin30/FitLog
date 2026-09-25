@@ -1,5 +1,5 @@
-import HomePage from "../components/HomePage";
+import MyPlanPage from "../../components/MyPlanPage";
 
 export default function Page() {
-  return <HomePage />;
+  return <MyPlanPage />;
 }
