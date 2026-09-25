@@ -1,4 +1,4 @@
-// File: D:\FitLog-Hero-Text-FINAL-FIXED (2)\FitLog-Hero-Text-FINAL\app\layout.js
+// File: D:\FitLog-Hero-Text-FINAL\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

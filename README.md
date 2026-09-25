@@ -4,6 +4,8 @@
 
 FitLog is a modern workout library and daily fitness planner that helps users explore workouts, view workout details, create a daily workout plan, and save workouts for later.
 
+## LocalHost:    http://localhost:3000
+
 ## Technologies Used
 
 - Next.js

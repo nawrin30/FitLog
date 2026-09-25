@@ -1,4 +1,4 @@
-// File: D:\FitLog-Hero-Text-FINAL-FIXED (2)\FitLog-Hero-Text-FINAL\app\my-plan\page.js
+// File: D:\FitLog-Hero-Text-FINAL\app\my-plan\page.js
 import * as entry from '../../../../app/my-plan/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
